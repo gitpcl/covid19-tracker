@@ -1,6 +1,22 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+    <img src=".github/readme-logo.svg" alt="Logo COVID-19" width="50%" />
+</h1>
 
-## Available Scripts
+<h5 align="center">
+  <b>COVID-19 tracker with statistics in real time.</b> 
+</h5>
+
+<img  src=".github/demo-covid-19.gif" alt="Gif COVID-19" width="100%" />
+
+## :computer: About the project
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). COVID-19 Tracker using React, Charts.JS and Material UI.
+
+## :link: API Used
+
+Link: https://covid19.mathdro.id/api
+
+## :floppy_disk: Available Scripts 
 
 In the project directory, you can run:
 
@@ -66,3 +82,11 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+## :memo: License
+
+This project is under an MIT license. Please check the [LICENSE](LICENSE.md) for more information.
+
+---
+
+Made 💜 by Pedro Lopes 
