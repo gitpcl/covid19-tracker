@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src=".github/readme-logo.svg" alt="Logo COVID-19" width="50%" />
+    <img src=".github/readme-logo.png" alt="Logo COVID-19" width="50%" />
 </h1>
 
 <h5 align="center">
